@@ -14,9 +14,9 @@ More information on the complex rules GR uses can be found on [Wikipedia here](h
 
 This function accepts Hanyu Pinyin (PY) syllables in numerical form (e.g. *pin1 yin1*), which can then be converted into GR. The function is meant to work with a tokenizer like **[mafan](https://github.com/hermanschaaf/mafan)** and as such will treat multiple syllables as a single word-unit, including some of the GR abbreviations. For example:
 
-* 漢語 (PY: *gāo​xìng​*, GR: *hannyeu*)
+* 漢語 (PY: *Hàn​yǔ*, GR: *hannyeu*)
 * 高興 (PY: *gāo​xìng​*, GR: *gaushinq*)
-* 銀河 (PY: *gāo​xìng​*, GR: *ynher*)
+* 銀河 (PY: *yín​hé​*, GR: *ynher*)
 * 國家安全 (PY: *guó​jiā​'ān​quán*, GR: *gwojiaanchyuan*)
 * 椅子 (PY: *yǐ​zi​*, GR: *yez*)
 * 每個 (PY: *měi​ge​*, GR: *meeig*)
