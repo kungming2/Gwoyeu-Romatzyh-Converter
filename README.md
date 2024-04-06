@@ -20,3 +20,7 @@ This function accepts Hanyu Pinyin (PY) syllables in numerical form (e.g. *pin1 
 * 國家安全 (PY: *guó​jiā​'ān​quán*, GR: *gwojiaanchyuan*)
 * 椅子 (PY: *yǐ​zi​*, GR: *yez*)
 * 每個 (PY: *měi​ge​*, GR: *meeig*)
+
+### Note
+
+The function does not apply the even-more complex spelling rules that form rhotacization (兒化).
